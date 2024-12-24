@@ -1,0 +1,6 @@
+from tkinter import*
+
+b = Tk()
+b.title("Blackmare01WOLF")
+
+b.mainloop()
